@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "paper scissor game"      # Project title
+  title:        "paper_scissor_game"      # Project title
   author:       "Potta Venkata Mahesh"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Paper stone game"      # One line description of what your project does
